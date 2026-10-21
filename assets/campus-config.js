@@ -5,13 +5,13 @@
  * estiverem vazios, formulários e painel permanecem desconectados.
  */
 window.CAMPUS_CONFIG = Object.freeze({
-  campusName: "IFMS Campus SEU CAMPUS",
-  campusShortName: "Campus SEU CAMPUS",
-  campusCity: "SUA CIDADE",
-  campusCsvCodes: ["SIGLA"],
-  internalInternshipInstitution: "IFMS Campus SEU CAMPUS",
+  campusName: "IFMS Campus Corumbá",
+  campusShortName: "Campus Corumbá",
+  campusCity: "Corumbá",
+  campusCsvCodes: ["CB"],
+  internalInternshipInstitution: "IFMS Campus Corumbá",
 
-  coeriEmail: "coeri.SEUCAMPUS@ifms.edu.br",
+  coeriEmail: "coeri.cb@ifms.edu.br",
   phoneDisplay: "(00) 0000-0000",
   phoneHref: "+550000000000",
   publicBaseUrl: "https://SEU-DOMINIO/",
