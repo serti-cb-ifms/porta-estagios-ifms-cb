@@ -14,7 +14,7 @@ window.CAMPUS_CONFIG = Object.freeze({
   coeriEmail: "coeri.cb@ifms.edu.br",
   phoneDisplay: "(00) 0000-0000",
   phoneHref: "+550000000000",
-  publicBaseUrl: "https://github.com/serti-cb-ifms/porta-estagios-ifms-cb.git/",
+  publicBaseUrl: "https://serti-cb-ifms.github.io/porta-estagios-ifms-cb/",
 
   logoUrl: "assets/logo-campus.svg",
   supabaseProjectDashboardUrl: "",
@@ -22,5 +22,5 @@ window.CAMPUS_CONFIG = Object.freeze({
 
   supabaseUrl: "https://mchhambqowkmzbfexoht.supabase.co",
   supabaseAnonKey: "sb_publishable_pYBZpVpyXPhYb2wsA_4BSA_1I27KIZx",
-  turnstileSiteKey: ""
+  turnstileSiteKey: "0x4AAAAAAFhKUp2RCJxFtlCI"
 });
