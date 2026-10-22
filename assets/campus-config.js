@@ -14,13 +14,13 @@ window.CAMPUS_CONFIG = Object.freeze({
   coeriEmail: "coeri.cb@ifms.edu.br",
   phoneDisplay: "(00) 0000-0000",
   phoneHref: "+550000000000",
-  publicBaseUrl: "https://SEU-DOMINIO/",
+  publicBaseUrl: "https://github.com/serti-cb-ifms/porta-estagios-ifms-cb.git/",
 
   logoUrl: "assets/logo-campus.svg",
   supabaseProjectDashboardUrl: "",
   supabaseUsageUrl: "",
 
-  supabaseUrl: "",
-  supabaseAnonKey: "",
+  supabaseUrl: "https://mchhambqowkmzbfexoht.supabase.co",
+  supabaseAnonKey: "sb_publishable_pYBZpVpyXPhYb2wsA_4BSA_1I27KIZx",
   turnstileSiteKey: ""
 });
