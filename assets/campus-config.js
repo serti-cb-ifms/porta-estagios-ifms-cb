@@ -16,7 +16,7 @@ window.CAMPUS_CONFIG = Object.freeze({
   phoneHref: "+550000000000",
   publicBaseUrl: "https://serti-cb-ifms.github.io/porta-estagios-ifms-cb/",
 
-  logoUrl: "assets/logo-campus.svg",
+  logoUrl: "assets/logo-campus.svg?v=2",
   supabaseProjectDashboardUrl: "",
   supabaseUsageUrl: "",
 
